@@ -1,0 +1,38 @@
+*{
+	font-family: 'Open Sans',Arial,Helvetica,sans-serif;
+	font-size: 18px;
+	box-sizing: border-box;
+}
+.navbar{
+	margin: 0;
+	padding: 0;
+}
+.nav-item span{
+	text-align: center;
+			color: black;
+	text-decoration: none;
+}
+.nav-item a:hover{
+	text-align: center;
+	color: black;
+	text-decoration: none;
+}
+.navbar-brand{
+	font-weight: 700;
+	font-size: 1.8em;
+	padding-left: 10px
+}
+.navbar-collapse ul li{
+	background-color: white;
+}
+.navbar-toggler{
+	margin-right: 10px;
+}
+.chicken{
+	padding-top: 20px;
+}
+.body{
+	margin-top: 25px;
+	padding: 25px;
+	background-color: #999999;
+}
